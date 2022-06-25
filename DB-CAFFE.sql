@@ -1,12 +1,3 @@
--- phpMyAdmin SQL Dump
--- version 5.1.1
--- https://www.phpmyadmin.net/
---
--- Host: 127.0.0.1
--- Generation Time: Jun 25, 2022 at 05:03 PM
--- Server version: 10.4.22-MariaDB
--- PHP Version: 8.1.1
-
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
 SET time_zone = "+00:00";
@@ -58,9 +49,10 @@ CREATE TABLE `customer` (
 --
 
 INSERT INTO `customer` (`CustomerID`, `CustomerName`, `CustomerPhone`) VALUES
-('C0001', 'ALDI CUPANG', '08560602028'),
-('C0002', 'ERNES GAY', '08621312324'),
-('C0003', 'RICKY WIBU', '08560601233');
+('C0001', 'ALDI', '08560602028'),
+('C0002', 'ERNES ', '08621312324'),
+('C0003', 'RICKY', '08560601233'),
+('C0004', 'BAYU', '085606012312');
 
 -- --------------------------------------------------------
 
