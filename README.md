@@ -18,7 +18,7 @@ Memasukan Orderan customer yang sebelumnya telah terdaftar ke dalam database caf
 3.    View Order
 Menampilkan order yang tercatat di dalam database caffe.
 4.    Make an Order
-Melakukan penghapusan data transaksi dari database caffe, untuk transaksi yang telah diselesaikan oleh karyawan Rabe Caffe
+Melakukan penghapusan data transaksi dari database caffe, untuk transaksi yang telah diselesaikan oleh karyawan Rabe Caffe.
 5.    Exit
 Keluar dari program Rabe Caffe.
 Database yang digunakan adalah MySQL. Java terhubung dengan MySQL dengan menggunakan Connector yang telah dibuat oleh Universitas Bina Nusantara.
